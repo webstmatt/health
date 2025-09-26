@@ -1,2 +1,48 @@
-# health
-Documenting health concepts
+# style
+- waitbuywhy style, funny diagrams
+- beautiful d3.js visuals
+  
+# topics
+- "Health machine"
+  - 
+  - big diagram, interactive, clickable
+  - diet, exercise, sleep, toxins
+  - ie inflammation leads to cancer, alzhemers, etc
+  - plastics, mold, insulin, etc lead to inflammation
+- Lifespan / age
+  - over time
+  - by country
+  - vs wealth (one country)
+  - causes of death
+  - vs exercise
+  - vs diet
+- Cancer rates 
+  - diagnosed vs death
+  - correlations - sugar, plastic, other inflammation factors
+- Happiness / quality of life
+  - is it better to have a short, fun life or a long, boring life?
+  - correlations
+- Inflammation
+  - funny meme
+  - over time
+  - mechanics
+  - link back to the "health machine"
+  - how to address each one
+- Microbiome
+- Insulin
+- Keto diet
+- Acne
+  - my experience
+  - elimination steps
+  - mechanics
+    - inflammation
+- Oils
+  - tldr: olive oil, macadamia oil, avocado oil
+  - types of omegas with nice diagram
+  - data mine which oils are health
+  - studies on oils
+  - oil consumption by country vs health
+  - is butter health?
+  - is animal fat healthy?
+  - how does cooking affect oil?
+  - how much oil to consume?
