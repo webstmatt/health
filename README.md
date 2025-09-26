@@ -6,7 +6,7 @@
 - "Health machine"
   - 
   - big diagram, interactive, clickable
-  - diet, exercise, sleep, toxins
+  - prevention: diet, exercise, sleep, toxins, stress, mental health, genetics, social
   - ie inflammation leads to cancer, alzhemers, etc
   - plastics, mold, insulin, etc lead to inflammation
 - Lifespan / age
