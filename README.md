@@ -51,5 +51,16 @@
   - which countries have most dementia?
   - common traits of those countries
   - mechanics of dementia
+- how energy generation works
+  - atp adp amp?. atp is fuel.
+  - when atp generated they release ros. ros is like toxic fumes.
+  - antiox removes ros, becomes bottleneck
+  - if too much ros then shut down glucose into mitochondria and generate glicogen, fat instead.
+  - ros issue reduces energy capacity. 
+  - cortisol causes neurones to burn energy faster
+  - energy crisis causes brain fog, irritability, depression. 
+  - app is in all cells. needs to stay in solution with energy applied. when lack of energy they form plaques. inflammatory process with damage. neuron cell death. 
+  - ros+ alzheimers, atp utilisation+ (stress, fever, etc) increase Alzheimer 
 
+ 
 
