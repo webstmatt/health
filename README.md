@@ -46,3 +46,10 @@
   - is animal fat healthy?
   - how does cooking affect oil?
   - how much oil to consume?
+- sweeteners cause reactive oxygen species which cause dementia. not sure of allulose, monk fruit and Stevia
+- ros vs dementia vs Alzheimer's
+  - which countries have most dementia?
+  - common traits of those countries
+  - mechanics of dementia
+
+
