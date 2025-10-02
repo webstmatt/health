@@ -62,5 +62,9 @@
   - app is in all cells. needs to stay in solution with energy applied. when lack of energy they form plaques. inflammatory process with damage. neuron cell death. 
   - ros+ alzheimers, atp utilisation+ (stress, fever, etc) increase Alzheimer 
 
- 
+- alzheimers risks
+  - air pollution, microplastics, ionizing radiation
+  - ultraprocessed foods, fructose, low omega 3, lack of fibre (supress inflammation), emulsiffiers, b vitamins increases ros
+
+
 
