@@ -66,5 +66,10 @@
   - air pollution, microplastics, ionizing radiation
   - ultraprocessed foods, fructose, low omega 3, lack of fibre (supress inflammation), emulsiffiers, b vitamins increases ros
 
+- types of energy
+  - fat 10cal/g, carb 4 cal/g
+  - carbs inhibit energy generation, less efficient
+  - fructose inhibits growth and energy generation
+  - processed foods make you shorter
 
 
