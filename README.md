@@ -72,4 +72,11 @@
   - fructose inhibits growth and energy generation
   - processed foods make you shorter
 
+- causes of cancer
+  - mechanisms: insulin (it's a growth factor), insulin causes mitochondrial dysfunction, it increases pento phosphate shunt, rambles cycle which is what cancer needs to grow. some cancers can take fructose and feed directly. cancer cells don't have mitochondria, they grow the fastest. 
+
+- microbiome
+  - what to eat: diversity
+  - resistant starch, soluble fibre, insoluble fibre, polyphenols, fermented foods, omega 3, prebiotic ogliosides, 
+  - get at least one of each category per day
 
