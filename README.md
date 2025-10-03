@@ -80,3 +80,9 @@
   - resistant starch, soluble fibre, insoluble fibre, polyphenols, fermented foods, omega 3, prebiotic ogliosides, 
   - get at least one of each category per day
 
+- exercise
+  - bdnf, neuron growth
+  - increases mitochondria
+  - reduces dementia
+  - doesnt impact weight loss
+
